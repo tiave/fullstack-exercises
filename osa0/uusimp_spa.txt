@@ -1,0 +1,3 @@
+title uusi muistiinpano spa
+käyttäjä->selain: tallentaa muistiinpanon
+selain->palvelin: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
